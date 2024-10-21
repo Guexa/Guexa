@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guexa, known as Guexa :p
-- 👀 I’m interested in languages, programming and everything relationed with Stephen King
-- 🌱 I’m currently learning React and Python
+- 👀 I’m interested in languages, programming and everything relationed with the music
+- 🌱 I’m currently learning Chinese and Blockchain
 - 💞️ Open to collaborate
 - 📫 How to reach me via linkedIn or mail to alexa.guepez27@gmail.com
